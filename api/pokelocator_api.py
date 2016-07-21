@@ -29,7 +29,7 @@ def getNeighbors():
     walk = [origin.id()]
   
     #get the 8 neighboring cells
-    path = [90,180,270,270,0,0,90,90,90,180,180]
+    path = [90,180,270,270,0,0,90,90,90,180]
 
     origin_lat = FLOAT_LAT
     origin_lng = FLOAT_LONG
